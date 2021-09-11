@@ -29,10 +29,10 @@
 - Dropout
 <br><br>
 
-## Approach : <br>
-    We know that every layer has unique functionality and parameters that defines them like poll_size ,units , activation , kernel_size , strides , rate (in dropout) and many others. So, I created a class which has dedicated methods for each kind of layer and returns the desired info about that particular layer. 
+## Approach  <br>
+We know that every layer has unique functionality and parameters that defines them like poll_size ,units , activation , kernel_size , strides , rate (in dropout) and many others. So, I created a class which has dedicated methods for each kind of layer and returns the desired info about that particular layer. 
 
-    I put the layers which I know about and also use most of the time, I know there are many other different types of layers like RNN , SpatialDropout2D , LSTMCell and many other but as I told you I don't have expertise on these layers, So if you have, then fork this repo and suggest changes or updates
+I put the layers which I know about and also use most of the time, I know there are many other different types of layers like RNN , SpatialDropout2D , LSTMCell and many other but as I told you I don't have expertise on these layers, So if you have, then fork this repo and suggest changes or updates
 
 ## Methods and Parameters
 - create_graph: method to draw the graph and save it
