@@ -11,12 +11,11 @@
 <br>
 
 ![App Screenshot](res/model.PNG)
-![App Screenshot](res/model2.PNG)
-
 # or
-<!-- <br> -->
 
 ![App Screenshot](res/model3.PNG)
+![App Screenshot](res/model2.PNG)
+
 
 ## This module supports the following layer ( for now) :
 - MaxPooling2D
