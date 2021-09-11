@@ -12,8 +12,9 @@
 
 ![App Screenshot](res/model.PNG)
 # or
-
 ![App Screenshot](res/model3.PNG)
+<br><br>
+
 ![App Screenshot](res/model2.PNG)
 
 
