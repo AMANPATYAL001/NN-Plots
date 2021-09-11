@@ -10,13 +10,13 @@
 ## First create a model or load an existing model, then import Class DrawNN from nn_plot. Just pass your model (rest of the arguments are keyword arguments). { The model I created here does not make any sense and also not appropriate for constructing the NN model, this is only for testing the robustness of the module }.
 <br>
 
-![App Screenshot](res/model.png)
-![App Screenshot](res/model2.png)
+![App Screenshot](res/model.PNG)
+![App Screenshot](res/model2.PNG)
 
 # or
 <!-- <br> -->
 
-![App Screenshot](res/model3.png)
+![App Screenshot](res/model3.PNG)
 
 ## This module supports the following layer ( for now) :
 - MaxPooling2D
@@ -67,7 +67,7 @@
 
 ## Default Parameters
 
-![App Screenshot](res/model5.png)
+![App Screenshot](res/model5.PNG)
 <br><br><br>
 
 ![App Screenshot](res/3.png)
